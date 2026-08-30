@@ -6,6 +6,7 @@ Leetcode
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/aakashydv0192-afk/DSA/tree/master/0009-palindrome-number) |
 | [0342-power-of-four](https://github.com/aakashydv0192-afk/DSA/tree/master/0342-power-of-four) |
 ## Bit Manipulation
 |  |
