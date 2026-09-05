@@ -20,4 +20,12 @@ Leetcode
 |  |
 | ------- |
 | [1108-defanging-an-ip-address](https://github.com/aakashydv0192-afk/DSA/tree/master/1108-defanging-an-ip-address) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/aakashydv0192-afk/DSA/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/aakashydv0192-afk/DSA/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
