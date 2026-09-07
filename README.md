@@ -6,6 +6,7 @@ Leetcode
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/aakashydv0192-afk/DSA/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/aakashydv0192-afk/DSA/tree/master/0009-palindrome-number) |
 | [0342-power-of-four](https://github.com/aakashydv0192-afk/DSA/tree/master/0342-power-of-four) |
 ## Bit Manipulation
@@ -15,6 +16,7 @@ Leetcode
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/aakashydv0192-afk/DSA/tree/master/0002-add-two-numbers) |
 | [0342-power-of-four](https://github.com/aakashydv0192-afk/DSA/tree/master/0342-power-of-four) |
 ## String
 |  |
@@ -28,4 +30,8 @@ Leetcode
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aakashydv0192-afk/DSA/tree/master/0001-two-sum) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/aakashydv0192-afk/DSA/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
